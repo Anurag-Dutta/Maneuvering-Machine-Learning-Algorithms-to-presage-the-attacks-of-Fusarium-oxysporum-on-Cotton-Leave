@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  24 DEC 2022 00:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  24 DEC 2022 15:57
 entering extended mode
 **./conference_101719.tex
 (conference_101719.tex
@@ -497,37 +497,150 @@ LaTeX Info: Redefining \nameref on input line 22.
 \@outlinefile=\write3
 \openout3 = `conference_101719.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 40.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
 
 
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
 
 
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 2828) in paragraph at lines 41--43
+Underfull \hbox (badness 2828) in paragraph at lines 59--61
 []\OT1/ptm/b/it/9 Abstract\OT1/ptm/b/n/9 ---Web tech-nolo-gies have reached un-
 prece-dented
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 41--43
+Underfull \hbox (badness 1454) in paragraph at lines 59--61
 \OT1/ptm/b/n/9 and many more. Fur-ther this work would also com-pare
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 41--43
+Underfull \hbox (badness 1953) in paragraph at lines 59--61
 \OT1/ptm/b/n/9 Ma-te-rial are made avail-able at []https://github.com/Anurag-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 \OT1/ptm/b/n/9 Dutta/Maneuvering-Machine-Learning-Algorithms-to-presage-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[1{C:/Users/Anurag Dutta/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 1354) in paragraph at lines 69--70
+\OT1/ptm/m/n/10 In-dia Com-pany's reg-u-la-tion in In-dia made a sig-nif-i-cant
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\OT1/ptm/m/n/10 made ava-ial-able pub-licly at []https://github.com/Anurag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\OT1/ptm/m/n/10 Dutta/Maneuvering-Machine-Learning-Algorithms-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\OT1/ptm/m/n/10 presage-the-attacks-of-Fusarium-oxysporum-on-Cotton-
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
+1.
+
+(C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+<SVM.png, id=55, 393.47pt x 262.9825pt>
+File: SVM.png Graphic file (type png)
+<use SVM.png>
+Package pdftex.def Info: SVM.png  used on input line 114.
+(pdftex.def)             Requested size: 252.0pt x 168.42859pt.
+<CM_SVM.png, id=57, 326.21875pt x 262.9825pt>
+File: CM_SVM.png Graphic file (type png)
+<use CM_SVM.png>
+Package pdftex.def Info: CM_SVM.png  used on input line 119.
+(pdftex.def)             Requested size: 252.0pt x 203.15924pt.
+ [4 <./SVM.png> <./CM_SVM.png>]
+<RF.png, id=73, 393.47pt x 262.9825pt>
+File: RF.png Graphic file (type png)
+<use RF.png>
+Package pdftex.def Info: RF.png  used on input line 147.
+(pdftex.def)             Requested size: 252.0pt x 168.42859pt.
+<CM_RF.png, id=74, 326.21875pt x 266.9975pt>
+File: CM_RF.png Graphic file (type png)
+<use CM_RF.png>
+Package pdftex.def Info: CM_RF.png  used on input line 152.
+(pdftex.def)             Requested size: 252.0pt x 206.26091pt.
+
+Underfull \hbox (badness 1924) in paragraph at lines 156--157
+[]\OT1/ptm/m/it/10 k-Nearest Neigh-bours\OT1/ptm/m/n/10 : K-Nearest Neigh-bor [
+21] is
+ []
+
+<kNN.png, id=75, 387.4475pt x 262.9825pt>
+File: kNN.png Graphic file (type png)
+<use kNN.png>
+Package pdftex.def Info: kNN.png  used on input line 180.
+(pdftex.def)             Requested size: 252.0pt x 171.04893pt.
+<CM_kNN.png, id=76, 326.21875pt x 266.9975pt>
+File: CM_kNN.png Graphic file (type png)
+<use CM_kNN.png>
+Package pdftex.def Info: CM_kNN.png  used on input line 185.
+(pdftex.def)             Requested size: 252.0pt x 206.26091pt.
+[5 <./RF.png> <./CM_RF.png>]
+<GNB.png, id=87, 387.4475pt x 262.9825pt>
+File: GNB.png Graphic file (type png)
+<use GNB.png>
+Package pdftex.def Info: GNB.png  used on input line 213.
+(pdftex.def)             Requested size: 252.0pt x 171.04893pt.
+<CM_GNB.png, id=88, 326.21875pt x 266.9975pt>
+File: CM_GNB.png Graphic file (type png)
+<use CM_GNB.png>
+Package pdftex.def Info: CM_GNB.png  used on input line 218.
+(pdftex.def)             Requested size: 252.0pt x 206.26091pt.
+ [6 <./kNN.png> <./CM_kNN.png> <./GNB.png>]
+<LR.png, id=100, 387.4475pt x 262.9825pt>
+File: LR.png Graphic file (type png)
+<use LR.png>
+Package pdftex.def Info: LR.png  used on input line 246.
+(pdftex.def)             Requested size: 252.0pt x 171.04893pt.
+<CM_LR.png, id=101, 326.21875pt x 262.9825pt>
+File: CM_LR.png Graphic file (type png)
+<use CM_LR.png>
+Package pdftex.def Info: CM_LR.png  used on input line 251.
+(pdftex.def)             Requested size: 252.0pt x 203.15924pt.
+
+[7 <./CM_GNB.png> <./LR.png> <./CM_LR.png>]
+Underfull \hbox (badness 2662) in paragraph at lines 270--271
+\OT1/ptm/m/n/8 Phys-i-cal Sci-ence, vol. 244, no. 131, pp. 1{1, Jul. 1973, doi:
+
  []
 
 
@@ -541,32 +654,31 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/Anurag Dutta/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+[8
 
-
-
-]
-(conference_101719.aux)
+] (conference_101719.aux)
 Package rerunfilecheck Info: File `conference_101719.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 551B7E3922F504EF8E6448B7032AC0A4;577.
  ) 
 Here is how much of TeX's memory you used:
- 10484 strings out of 478927
- 158877 string characters out of 2849181
- 472643 words of memory out of 3000000
- 28209 multiletter control sequences out of 15000+600000
- 437541 words of font info for 91 fonts, out of 8000000 for 9000
+ 10739 strings out of 478927
+ 161628 string characters out of 2849181
+ 484520 words of memory out of 3000000
+ 28398 multiletter control sequences out of 15000+600000
+ 441479 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,2264b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,66p,4737b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.
-enc}<C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
-utmb8a.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/urw
-/times/utmbi8a.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/urw/times/utmr8a.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (1 page, 60668 bytes).
+enc}<C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/
+type1/urw/courier/ucrr8a.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Anurag Dutta/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Anurag Dutta/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Anurag Dutta/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (8 pages, 201716 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
